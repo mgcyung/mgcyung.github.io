@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on MGCYUNG</title>
-    <link>http://mgcyung.io/categories/</link>
+    <link>http://mgcyung.github.io/categories/</link>
     <description>Recent content in Categories on MGCYUNG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn-zh</language>
     
-	<atom:link href="http://mgcyung.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mgcyung.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
