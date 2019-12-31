@@ -6,10 +6,19 @@
     <description>Recent content in Tags on MGCYUNG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 31 Dec 2019 08:48:42 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 20:50:13 +0800</lastBuildDate>
     
 	<atom:link href="http://mgcyung.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>历史</title>
+      <link>http://mgcyung.github.io/tags/%E5%8E%86%E5%8F%B2/</link>
+      <pubDate>Tue, 31 Dec 2019 20:50:13 +0800</pubDate>
+      
+      <guid>http://mgcyung.github.io/tags/%E5%8E%86%E5%8F%B2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NBA</title>
@@ -17,15 +26,6 @@
       <pubDate>Tue, 31 Dec 2019 08:48:42 +0800</pubDate>
       
       <guid>http://mgcyung.github.io/tags/nba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>历史</title>
-      <link>http://mgcyung.github.io/tags/%E5%8E%86%E5%8F%B2/</link>
-      <pubDate>Fri, 27 Dec 2019 09:21:02 +0800</pubDate>
-      
-      <guid>http://mgcyung.github.io/tags/%E5%8E%86%E5%8F%B2/</guid>
       <description></description>
     </item>
     
