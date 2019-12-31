@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mgcyung.github.io/posts/cp3/</loc>
+    <lastmod>2019-12-31T08:48:42+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mgcyung.github.io/posts/%E4%B8%9C%E6%B1%89%E7%9A%84%E6%B8%B8%E7%89%A7%E5%AF%B9%E6%89%8B/</loc>
     <lastmod>2019-12-27T09:21:02+08:00</lastmod>
   </url>
@@ -28,22 +33,27 @@
   </url>
   
   <url>
-    <loc>http://mgcyung.github.io/categories/</loc>
-    <lastmod>2019-12-27T09:21:02+08:00</lastmod>
+    <loc>http://mgcyung.github.io/</loc>
+    <lastmod>2019-12-31T08:48:42+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mgcyung.github.io/</loc>
-    <lastmod>2019-12-27T09:21:02+08:00</lastmod>
+    <loc>http://mgcyung.github.io/tags/nba/</loc>
+    <lastmod>2019-12-31T08:48:42+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://mgcyung.github.io/posts/</loc>
-    <lastmod>2019-12-27T09:21:02+08:00</lastmod>
+    <lastmod>2019-12-31T08:48:42+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://mgcyung.github.io/tags/</loc>
+    <lastmod>2019-12-31T08:48:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mgcyung.github.io/categories/</loc>
     <lastmod>2019-12-27T09:21:02+08:00</lastmod>
   </url>
   
